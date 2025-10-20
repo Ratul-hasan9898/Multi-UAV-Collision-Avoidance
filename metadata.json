@@ -1,0 +1,5 @@
+{
+  "name": "Multi-UAV Collision Avoidance Simulator",
+  "description": "A web application that simulates and visualizes collision avoidance for multiple Unmanned Aerial Vehicles (UAVs) based on preset flight paths. Users can generate complex scenarios using natural language with the Gemini API.",
+  "requestFramePermissions": []
+}
